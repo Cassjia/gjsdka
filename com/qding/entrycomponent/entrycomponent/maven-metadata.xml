@@ -3,7 +3,7 @@
   <groupId>com.qding.entrycomponent</groupId>
   <artifactId>entrycomponent</artifactId>
   <versioning>
-    <release>0.5.2</release>
+    <release>0.5.3</release>
     <versions>
       <version>0.1.8</version>
       <version>0.1.9</version>
@@ -42,7 +42,8 @@
       <version>0.5.0</version>
       <version>0.5.1</version>
       <version>0.5.2</version>
+      <version>0.5.3</version>
     </versions>
-    <lastUpdated>20190715113116</lastUpdated>
+    <lastUpdated>20190716075310</lastUpdated>
   </versioning>
 </metadata>
