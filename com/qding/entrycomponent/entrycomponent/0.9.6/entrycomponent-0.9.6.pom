@@ -162,11 +162,6 @@
       <version>5.5.8</version>
     </dependency>
     <dependency>
-      <groupId>com.umeng.sdk</groupId>
-      <artifactId>utdid</artifactId>
-      <version>1.1.5.3</version>
-    </dependency>
-    <dependency>
       <groupId>com.umeng.umsdk</groupId>
       <artifactId>push</artifactId>
       <version>5.0.2</version>
